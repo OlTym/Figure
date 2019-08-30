@@ -1,0 +1,29 @@
+{
+  "SettingShape": [
+    {
+      "startX": 15.0,
+      "startY": 177.0,
+      "weight": 55.0,
+      "height": 45.0,
+      "select": false,
+      "group": false,
+      "color": {
+        "red": 0.99215686,
+        "green": 0.92156863,
+        "blue": 0.8392157,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -136234,
+          "r": 0.99215686,
+          "g": 0.92156863,
+          "b": 0.8392157,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      "patern": "TRIANGLE"
+    }
+  ]
+}
